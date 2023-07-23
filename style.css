@@ -7,3 +7,14 @@ img {
     height: auto;
     width: 500px;
 }
+
+.title
+.subtitle {
+    font-family: "Papyrus", fantasy;
+}
+
+.description
+.ingredients
+.steps {
+    background-color: #ff0000
+}
